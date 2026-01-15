@@ -22,5 +22,6 @@ PanelWindow {
 			Weather {}
 			// RGB {} dangerous
 			Spotify {}
+			Workspaces {}
 		}
 }
