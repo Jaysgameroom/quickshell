@@ -19,5 +19,6 @@ PanelWindow {
 
 			anchors.fill: parent
 			Clock {}
+			Weather {}
 		}
 }
