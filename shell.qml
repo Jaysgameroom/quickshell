@@ -20,5 +20,6 @@ PanelWindow {
 			anchors.fill: parent
 			Clock {}
 			Weather {}
+			// RGB {} dangerous
 		}
 }
