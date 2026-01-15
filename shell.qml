@@ -21,5 +21,6 @@ PanelWindow {
 			Clock {}
 			Weather {}
 			// RGB {} dangerous
+			Spotify {}
 		}
 }
