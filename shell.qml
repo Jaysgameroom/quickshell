@@ -23,5 +23,6 @@ PanelWindow {
 			// RGB {} dangerous
 			Spotify {}
 			Workspaces {}
+			Disk {}
 		}
 }
